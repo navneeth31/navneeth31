@@ -1,4 +1,4 @@
-# <div align="center">🚀 NAVNEETH KUMAR GOUD S</div>
+# <div align="center">🚀 NAVNEETH KUMAR</div>
 
 <div align="center">
   
@@ -215,7 +215,7 @@
           </tr>
           <tr>
             <td>💾 Backend</td>
-            <td>MySQL, Firebase</td>
+            <td>MySQL, MongoDB,Firebase</td>
           </tr>
         </table>
       </div>
