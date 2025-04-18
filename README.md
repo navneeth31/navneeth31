@@ -60,7 +60,7 @@
       <h3 align="center">Placement Guidance Platform</h3>
       <div align="center">
         <a href="https://placement-guidance.onrender.com/" target="_blank">
-          <img src="https://www.noblewomenscollege.edu.in/source/Files/PDF/Students%20Zone/Career%20Gudance.jpg" width="20%" alt="Project"/>
+          <img src="https://www.noblewomenscollege.edu.in/source/Files/PDF/Students%20Zone/Career%20Gudance.jpg" width="40%" alt="Project"/>
         </a>
         <br>
         <br>
