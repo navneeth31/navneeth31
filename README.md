@@ -65,10 +65,10 @@
         <br>
         <br>
         <p>
-          <a href="#" target="_blank">
+          <a href="https://github.com/navneeth31/placement_guidance" target="_blank">
             <img src="https://img.shields.io/badge/Code-View-007396?style=flat-square&logo=github"/>
           </a>
-          <a href="#" target="_blank">
+          <a href="https://placement-guidance.onrender.com/" target="_blank">
             <img src="https://img.shields.io/badge/Live-Demo-5C2D91?style=flat-square&logo=heroku"/>
           </a>
         </p>
@@ -85,10 +85,10 @@
         <br>
         <br>
         <p>
-          <a href="#" target="_blank">
+          <a href="https://github.com/navneeth31/funverse" target="_blank">
             <img src="https://img.shields.io/badge/Code-View-007396?style=flat-square&logo=github"/>
           </a>
-          <a href="#" target="_blank">
+          <a href="https://funverse.netlify.app/" target="_blank">
             <img src="https://img.shields.io/badge/Live-Demo-5C2D91?style=flat-square&logo=heroku"/>
           </a>
         </p>
@@ -110,7 +110,7 @@
           <a href="#" target="_blank">
             <img src="https://img.shields.io/badge/Code-View-007396?style=flat-square&logo=github"/>
           </a>
-          <a href="#" target="_blank">
+          <a href="https://kaundinya.netlify.app/" target="_blank">
             <img src="https://img.shields.io/badge/Live-Demo-5C2D91?style=flat-square&logo=heroku"/>
           </a>
         </p>
@@ -118,7 +118,7 @@
         <p>A charitable trust website with information about services offered and features for volunteer registration and donations.</p>
       </div>
     </td>
-    <td width="50%" valign="top">
+<!--     <td width="50%" valign="top">
       <h3 align="center">Your Next Project Here!</h3>
       <div align="center">
         <a href="#" target="_blank">
@@ -133,7 +133,7 @@
         </p>
         <p>Looking for collaboration opportunities to build innovative solutions with modern web technologies.</p>
       </div>
-    </td>
+    </td> -->
   </tr>
 </table>
 
