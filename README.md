@@ -282,7 +282,7 @@
   <p>Feel free to star ⭐ repositories you find interesting!</p>
   
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=YourGitHubUsername&icon=5&color=6" alt="Visit Count" />
+    <img src="https://visitcount.itsvg.in/api?id=navneeth31&icon=5&color=6" alt="Visit Count" />
   </a>
   
 </div>
