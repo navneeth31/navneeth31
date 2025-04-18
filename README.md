@@ -80,7 +80,7 @@
       <h3 align="center">Funverse</h3>
       <div align="center">
         <a href="https://funverse.netlify.app/", target="_blank">
-          <img src="https://file.aiquickdraw.com/imgcompressed/img/compressed_f7c2f2aba23b813af8df0bed2923c1bb.webp" width="35%" alt="Project"/>
+          <img src="https://images.igdb.com/igdb/image/upload/t_logo_med/clbs8.png" width="35%" alt="Project"/>
         </a>
         <br>
         <br>
