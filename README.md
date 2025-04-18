@@ -80,7 +80,7 @@
       <h3 align="center">Funverse</h3>
       <div align="center">
         <a href="https://funverse.netlify.app/", target="_blank">
-          <img src="https://www.bayrakhaber.com/wp-content/uploads/2022/12/unnamed-11.jpg" width="40%" alt="Project"/>
+          <img src="https://file.aiquickdraw.com/imgcompressed/img/compressed_f7c2f2aba23b813af8df0bed2923c1bb.webp" width="40%" alt="Project"/>
         </a>
         <br>
         <br>
