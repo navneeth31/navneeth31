@@ -80,7 +80,7 @@
       <h3 align="center">Funverse</h3>
       <div align="center">
         <a href="#" target="_blank">
-          <img src="https://drive.google.com/file/d/1Qal4NwMwqKltRCDN-r3Jkv1BznHo3OT9/view?usp=drive_link" width="100%" alt="Project"/>
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjPWzMKKgkVKuzv35y7nmwyENESzx4mCbNzA&s" width="100%" alt="Project"/>
         </a>
         <br>
         <br>
