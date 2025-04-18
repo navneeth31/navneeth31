@@ -80,7 +80,7 @@
       <h3 align="center">Funverse</h3>
       <div align="center">
         <a href="#" target="_blank">
-          <img src="https://file.aiquickdraw.com/imgcompressed/img/compressed_f7c2f2aba23b813af8df0bed2923c1bb.webp" width="70%" alt="Project"/>
+          <img src="https://file.aiquickdraw.com/imgcompressed/img/compressed_f7c2f2aba23b813af8df0bed2923c1bb.webp" width="20%" alt="Project"/>
         </a>
         <br>
         <br>
