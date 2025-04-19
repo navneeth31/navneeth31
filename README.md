@@ -57,7 +57,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Placement Guidance Platform</h3>
+      <h3 align="center">Career Portal</h3>
       <div align="center">
         <a href="https://placement-guidance.onrender.com/" target="_blank">
           <img src="https://www.noblewomenscollege.edu.in/source/Files/PDF/Students%20Zone/Career%20Gudance.jpg" width="40%" alt="Project"/>
