@@ -269,7 +269,7 @@
     <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://navneeth-portfolio.netlify.app">
-    <img src="https://img.shields.io/badge/portfolio-%23000000.svg?&style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/portfolio-%23000000.svg?&style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" target="_blank"/>
   </a>
   
 </div>
