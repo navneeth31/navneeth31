@@ -217,7 +217,7 @@
           </tr>
           <tr>
             <td>💾 Backend</td>
-            <td>MySQL, MongoDB,Firebase</td>
+            <td>MySQL, MongoDB, Firebase, Supabase</td>
           </tr>
         </table>
       </div>
