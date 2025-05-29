@@ -115,7 +115,7 @@
               <img src="https://img.shields.io/badge/Live-Demo-5C2D91?style=flat-square&logo=heroku"/>
             </a>
           </p>
-          <p><strong>Cybersecurity, Kali-linux, Ethical-hacking, social-engineering, security-awareness, zphisher phishing-simulation</strong></p>
+          <p><strong>Kali-linux, Ethical-hacking, zphisher phisher tool</strong></p>
           <p>Educational phishing simulation using ZPhisher on Kali Linux to demonstrate credential harvesting techniques.</p>
         </div>
       </td>
