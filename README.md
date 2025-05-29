@@ -98,47 +98,48 @@
       </div>
     </td>
   </tr>
-  <td width="50%" valign="top">
-      <h3 align="center">ZPhishier – Social Media Phishing Simulaton</h3>
-      <div align="center">
-        <a href="/" target="_blank">
-          <img src="https://i.imgur.com/Po2pXzB.png" width="40%" alt="Project"/>
-        </a>
-        <br>
-        <br>
-        <p>
-          <a href="https://github.com/navneeth31/phishing-attack-demo" target="_blank">
-            <img src="https://img.shields.io/badge/Code-View-007396?style=flat-square&logo=github"/>
-          </a>
-          <a href="/" target="_blank">
-            <img src="https://img.shields.io/badge/Live-Demo-5C2D91?style=flat-square&logo=heroku"/>
-          </a>
-        </p>
-        <p><strong>Cybersecurity, Kali-linux, Ethical-hacking, social-engineering, security-awareness, zphisher phishing-simulation</strong></p>
-        <p>Educational phishing simulation using ZPhisher on Kali Linux to demonstrate credential harvesting techniques.</p>
-      </div>
-    </td>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Kaundinya Trust Website</h3>
-      <div align="center">
-        <a href="#" target="_blank">
-          <img src="https://via.placeholder.com/500x300/0d1117/ffffff?text=Kaundinya+Trust" width="100%" alt="Project"/>
-        </a>
-        <br>
-        <br>
-        <p>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Code-View-007396?style=flat-square&logo=github"/>
+        <h3 align="center">ZPhishier – Social Media Phishing Simulaton</h3>
+        <div align="center">
+          <a href="/" target="_blank">
+            <img src="https://i.imgur.com/Po2pXzB.png" width="40%" alt="Project"/>
           </a>
-          <a href="https://kaundinya.netlify.app/" target="_blank">
-            <img src="https://img.shields.io/badge/Live-Demo-5C2D91?style=flat-square&logo=heroku"/>
-          </a>
-        </p>
-        <p><strong>React.js, Tailwind CSS</strong></p>
-        <p>A charitable trust website with information about services offered and features for volunteer registration and donations.</p>
-      </div>
-    </td>
+          <br>
+          <br>
+          <p>
+            <a href="https://github.com/navneeth31/phishing-attack-demo" target="_blank">
+              <img src="https://img.shields.io/badge/Code-View-007396?style=flat-square&logo=github"/>
+            </a>
+            <a href="/" target="_blank">
+              <img src="https://img.shields.io/badge/Live-Demo-5C2D91?style=flat-square&logo=heroku"/>
+            </a>
+          </p>
+          <p><strong>Cybersecurity, Kali-linux, Ethical-hacking, social-engineering, security-awareness, zphisher phishing-simulation</strong></p>
+          <p>Educational phishing simulation using ZPhisher on Kali Linux to demonstrate credential harvesting techniques.</p>
+        </div>
+      </td>
+      <td width="50%" valign="top">
+            <h3 align="center">Kaundinya Trust Website</h3>
+            <div align="center">
+              <a href="#" target="_blank">
+                <img src="https://via.placeholder.com/500x300/0d1117/ffffff?text=Kaundinya+Trust" width="100%" alt="Project"/>
+              </a>
+              <br>
+              <br>
+              <p>
+                <a href="#" target="_blank">
+                  <img src="https://img.shields.io/badge/Code-View-007396?style=flat-square&logo=github"/>
+                </a>
+                <a href="https://kaundinya.netlify.app/" target="_blank">
+                  <img src="https://img.shields.io/badge/Live-Demo-5C2D91?style=flat-square&logo=heroku"/>
+                </a>
+              </p>
+              <p><strong>React.js, Tailwind CSS</strong></p>
+              <p>A charitable trust website with information about services offered and features for volunteer registration and donations.</p>
+            </div>
+        </td>
+      </tr>
 <!--     <td width="50%" valign="top">
       <h3 align="center">Your Next Project Here!</h3>
       <div align="center">
