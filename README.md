@@ -111,9 +111,6 @@
             <a href="https://github.com/navneeth31/phishing-attack-demo" target="_blank">
               <img src="https://img.shields.io/badge/Code-View-007396?style=flat-square&logo=github"/>
             </a>
-            <a href="/" target="_blank">
-              <img src="https://img.shields.io/badge/Live-Demo-5C2D91?style=flat-square&logo=heroku"/>
-            </a>
           </p>
           <p><strong>Kali-linux, Ethical-hacking, zphisher phisher tool</strong></p>
           <p>Educational phishing simulation using ZPhisher on Kali Linux to demonstrate credential harvesting techniques.</p>
