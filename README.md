@@ -194,12 +194,26 @@
     </td>
     <td width="50%">
       <h3 align="center">Certifications</h3>
-
-  | Course | Provider | Badge |
-  |--------|----------|-------|
-  | Python for Data Science    | IBM      | [![IBM Python for Data Science](https://img.shields.io/badge/IBM-Python_for_Data_Science-blue?style=flat&logo=ibm)](https://www.coursera.org/account/accomplishments/certificate/...) |
-  | Java Programming | Oracle | ![Oracle Java Programming](https://img.shields.io/badge/Oracle-Java_Programming-red?style=flat&logo=oracle) |
-  | Prompt Engineering for AI | Udemy | ![Udemy Prompt Engineering for AI](https://img.shields.io/badge/Udemy-Prompt_Engineering_for_AI-purple?style=flat&logo=udemy) |
+      <div align="center">
+        <table>
+          <tr>
+            <td>
+              <img src="https://img.shields.io/badge/IBM-Python_for_Data_Science-blue?style=for-the-badge&logo=ibm" alt="IBM Certificate"/>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <img src="https://img.shields.io/badge/Oracle-Java_Programming-red?style=for-the-badge&logo=oracle" alt="Oracle Certificate"/>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <img src="https://img.shields.io/badge/Udemy-Prompt_Engineering_for_AI-purple?style=for-the-badge&logo=udemy" alt="Udemy Certificate"/>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </td>
   </tr>
 </table>
 
