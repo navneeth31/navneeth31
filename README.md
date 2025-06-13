@@ -4,10 +4,11 @@
   
   ### `Full Stack Developer` | `React.js` | `Web Development Enthusiast`
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-navneeth--portfolio.netlify.app-blue?style=for-the-badge)](https://navneeth-portfolio.netlify.app)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/s-navneeth-kumar-4a04452a3/)
-  [![Email](https://img.shields.io/badge/Email-navaneeth3103%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:navaneeth3103@gmail.com)
-  [![Phone](https://img.shields.io/badge/Phone-6281091528-green?style=for-the-badge&logo=whatsapp)](tel:6281091528)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-navneeth--portfolio.netlify.app-blue?style=flat)](https://navneeth-portfolio.netlify.app)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/s-navneeth-kumar-4a04452a3/)
+  [![Email](https://img.shields.io/badge/Email-navaneeth3103%40gmail.com-red?style=flat&logo=gmail)](mailto:navaneeth3103@gmail.com)
+  [![Phone](https://img.shields.io/badge/Phone-6281091528-green?style=flat&logo=whatsapp)](tel:6281091528)
+
   
 </div>
 
