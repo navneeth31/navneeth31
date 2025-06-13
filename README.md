@@ -197,7 +197,7 @@
 
   | Course | Provider | Badge |
   |--------|----------|-------|
-  | Python for Data Science | IBM | ![IBM Python for Data Science](https://img.shields.io/badge/IBM-Python_for_Data_Science-blue?style=flat&logo=ibm) |
+  | Python for Data Science    | IBM      | [![IBM Python for Data Science](https://img.shields.io/badge/IBM-Python_for_Data_Science-blue?style=flat&logo=ibm)](https://www.coursera.org/account/accomplishments/certificate/...) |
   | Java Programming | Oracle | ![Oracle Java Programming](https://img.shields.io/badge/Oracle-Java_Programming-red?style=flat&logo=oracle) |
   | Prompt Engineering for AI | Udemy | ![Udemy Prompt Engineering for AI](https://img.shields.io/badge/Udemy-Prompt_Engineering_for_AI-purple?style=flat&logo=udemy) |
   </tr>
