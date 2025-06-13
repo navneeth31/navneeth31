@@ -282,15 +282,9 @@
   
   ## 📫 Connect With Me
   
-  <a href="https://linkedin.com/in/s-navneeth-kumar-4a04452a3/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:navaneeth3103@gmail.com">
-    <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://navneeth-portfolio.netlify.app">
-    <img src="https://img.shields.io/badge/portfolio-%23000000.svg?&style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
-  </a>
+  [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>](https://linkedin.com/in/s-navneeth-kumar-4a04452a3/) &nbsp;
+  [<img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>](mailto:navaneeth3103@gmail.com) &nbsp;
+  [<img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=react&logoColor=white"/>](https://navneeth-portfolio.netlify.app) 
   
 </div>
 
@@ -300,6 +294,6 @@
   
   ### ⭐ Thanks for visiting! ⭐
   
-  <p>Feel free to star ⭐ repositories you find interesting!</p>
+  <p>Feel free to star ⭐ my repositories you find them interesting!!</p>
   
 </div>
