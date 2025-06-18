@@ -104,7 +104,7 @@
     <td width="50%" valign="top">
         <h3 align="center">ZPhishier – Social Media Phishing Simulaton</h3>
         <div align="center">
-          <a href="/" target="_blank">
+          <a href="https://github.com/navneeth31/phishing-attack-demo" target="_blank">
             <img src="https://i.imgur.com/Po2pXzB.png" width="40%" alt="Project"/>
           </a>
           <br>
@@ -119,23 +119,20 @@
         </div>
       </td>
       <td width="50%" valign="top">
-            <h3 align="center">Kaundinya Trust Website</h3>
+            <h3 align="center">Password Generator</h3>
             <div align="center">
-              <a href="#" target="_blank">
-                <img src="https://via.placeholder.com/500x300/0d1117/ffffff?text=Kaundinya+Trust" width="100%" alt="Project"/>
+              <a href="https://github.com/navneeth31/password-generator" target="_blank">
+                <img src="https://github.com/user-attachments/assets/fe070101-ca05-4380-a827-388509fd3191" width="30%" alt="Project"/>
               </a>
               <br>
               <br>
               <p>
-                <a href="#" target="_blank">
+                <a href="https://github.com/navneeth31/password-generator" target="_blank">
                   <img src="https://img.shields.io/badge/Code-View-007396?style=flat-square&logo=github"/>
-                </a>
-                <a href="https://kaundinya.netlify.app/" target="_blank">
-                  <img src="https://img.shields.io/badge/Live-Demo-5C2D91?style=flat-square&logo=heroku"/>
                 </a>
               </p>
               <p><strong>React.js, Tailwind CSS</strong></p>
-              <p>A charitable trust website with information about services offered and features for volunteer registration and donations.</p>
+              <p>A simple, terminal-based password manager written in Bash. It uses GPG for symmetric encryption to securely store multiple credentials in a single encrypted vault. Clipboard operations are supported and a menu-driven interface.</p>
             </div>
         </td>
       </tr>
