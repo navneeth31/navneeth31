@@ -4,7 +4,7 @@
   
   ### `Full Stack Developer` | `React.js` | `Web Development Enthusiast`
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-navneeth--portfolio.netlify.app-blue?style=flat)](https://navneeth-portfolio.netlify.app)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-navneeth.me-blue?style=flat)](https://navneeth.me)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/s-navneeth-kumar-4a04452a3/)
   [![Email](https://img.shields.io/badge/Email-navaneeth3103%40gmail.com-red?style=flat&logo=gmail)](mailto:navaneeth3103@gmail.com)
   [![Phone](https://img.shields.io/badge/Phone-6281091528-green?style=flat&logo=whatsapp)](tel:6281091528)
